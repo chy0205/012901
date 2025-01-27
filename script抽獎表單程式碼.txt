@@ -8,7 +8,7 @@ const SHEET_FORM = 'Form_Responses1';
 const SHEET_WINNERS = 'Winners';
 
 // 目標試算表 ID (請替換成你的目標試算表 ID)
-const TARGET_SPREADSHEET_ID = '------中獎表單位置------------';
+const TARGET_SPREADSHEET_ID =11D8V0O2JmUCawUZH_kxu6O4tkZtS24H0wEJU4HOjHMM;
 
 // 目標工作表名稱 (請替換成你的目標工作表名稱)
 const TARGET_SHEET_NAME = '工作表1';
